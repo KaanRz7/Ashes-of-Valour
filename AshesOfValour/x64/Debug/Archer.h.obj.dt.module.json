@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "AshesOfValour\\x64\\Debug\\Archer.obj",
+            "outputs": [
+                "AshesOfValour\\x64\\Debug\\Archer.h.obj.dt.module.json",
+                "AshesOfValour\\x64\\Debug\\Archer.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AshesOfValour.vcxproj" Id="b3061f25-d8f4-40b6-8200-65ea5f582e9b" />
+</Solution>

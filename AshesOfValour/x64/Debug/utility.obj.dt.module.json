@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "AshesOfValour\\x64\\Debug\\utility.obj",
+            "outputs": [
+                "AshesOfValour\\x64\\Debug\\utility.obj.dt.module.json",
+                "AshesOfValour\\x64\\Debug\\utility.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

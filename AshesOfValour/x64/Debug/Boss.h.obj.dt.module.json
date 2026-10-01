@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "AshesOfValour\\x64\\Debug\\Boss.obj",
+            "outputs": [
+                "AshesOfValour\\x64\\Debug\\Boss.h.obj.dt.module.json",
+                "AshesOfValour\\x64\\Debug\\Boss.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
